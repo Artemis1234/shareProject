@@ -5,6 +5,5 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Creating Project" );
-        System.out.println( "Made a change by Artemis1234" );
     }
 }
